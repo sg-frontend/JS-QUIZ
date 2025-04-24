@@ -37,7 +37,7 @@
   - 예: `InhoShin/1번`
 - **개념**은 markdown 형식으로 정리합니다.
 - 실습한 폴더 readme에 작성해주세요. `{작성자 이름}/[n번]/README.md`
-  - 예: `1장/InhoShin/README.md`
+  - 예: `InhoShin/1번/README.md`
 - **commit message**: `[n번] 작성자 이름`
   - 예: `[n번] 신인호`
 
