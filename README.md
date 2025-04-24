@@ -1,7 +1,7 @@
 # JS-QUIZ
 
 
-**[프론트엔드 성능 최적화 가이드](https://product.kyobobook.co.kr/detail/S000200178292)** 책을 기반으로 진행하는 스터디입니다.
+**[JS Quiz](https://javascript-questions.vercel.app/)** 링크 기반으로 진행하는 스터디입니다.
 
 ## 📅 일정
 
